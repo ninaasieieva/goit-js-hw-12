@@ -62,6 +62,7 @@
           endOfListMessage();
         }
       }
+      
     } catch (error) {
       errorMessage(error);
     } finally {
