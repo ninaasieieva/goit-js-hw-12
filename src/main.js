@@ -1,4 +1,4 @@
-import {
+ї\import {
     fetchImages
   } from './js/pixabay-api';
   import {
